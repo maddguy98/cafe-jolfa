@@ -1,0 +1,8 @@
+{
+  "name": "Remix کافه زیتون | Zeytoon Cafe",
+  "description": "منوی دیجیتال و کافه زیتون با طراحی مدرن و اکسپرسیو - Zeytoon Cafe Expressive Digital Menu \u0026 Cafe Ordering App",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
